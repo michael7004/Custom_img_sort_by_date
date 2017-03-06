@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <!--General message-->
+    <string name="hello_images">HelloImages</string>
+    <string name="hello_cameras">HelloCamera</string>
+    <string name="simple_dialog">Simple Dialog</string>
+
+
+    <!--Constant values-->
+    <string name="date_formate">yyyyMMdd_HHmmss</string>
+    <string name="vid_name">VID_</string>
+    <string name="vid_extension">.mp4</string>
+    <string name="img_name">IMG_</string>
+    <string name="img_extension">.jpg</string>
+    <string name="aud_extension">/mylibsrecording.amr</string>
+
+
+    <!--GoogleMap Keys-->
+
+    <!--Bundle Keys-->
+    //Keys for Menu_Dialog_fragment Fragment
+    <string name="BTNIMG">BTNIMG</string>
+    <string name="BTNGAL">BTNGAL</string>
+    <string name="BTNVID">BTNVID</string>
+    <string name="BTNVIDD">BTNVIDD</string>
+    <string name="BTNAUD">BTNAUD</string>
+    <string name="BTNAUDD">BTNAUDD</string>
+
+    //Keys For Capture_Fragment
+    <string name="file_url">file_uri</string>
+
+    //Keys For Capture_Vid_Frag Fragment
+    <string name="fragment_cap_vid_file_url">file_uri</string>
+
+
+</resources>
